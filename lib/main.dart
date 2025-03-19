@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:pay4me/ui/screens/homescreen.dart';
 
 import 'core/theme/theme.dart';
 
@@ -16,7 +17,7 @@ class App extends StatelessWidget {
       title: 'Pay4Me Task',
       theme: AppTheme.lightThemeMode,
       debugShowCheckedModeBanner: false,
-      home: Container(),
+      home: HomeScreen(),
     );
   }
 }
