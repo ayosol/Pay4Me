@@ -80,7 +80,7 @@ This Flutter application is a social media-like platform that allows users to vi
 To run the tests:
 
 ```bash
-flutter test# pay4metask
+flutter test
 ```
 
 ## Screenshots
