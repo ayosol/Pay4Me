@@ -5,6 +5,7 @@ import '../../providers/post_provider.dart';
 import '../widgets/bottom_nav.dart';
 import '../widgets/create_post_fab.dart';
 import '../widgets/create_post_sheet.dart';
+import '../widgets/post_widget.dart';
 import '../widgets/search_bar.dart';
 import '../widgets/top_nav_bar.dart';
 
@@ -33,6 +34,14 @@ class HomeScreen extends ConsumerWidget {
               const SizedBox(height: 8),
               SearchBarWidget(),
               const SizedBox(height: 8),
+              Expanded(
+                child: ListView.builder(
+                  itemCount: posts.length,
+                  itemBuilder: (context, index) {
+                    return PostWidget(post: posts[index], index: index);
+                  },
+                ),
+              ),
             ],
           ),
         )
