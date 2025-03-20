@@ -85,9 +85,9 @@ flutter test# pay4metask
 ## Screenshots
 
 **iPhone 16 Pro:**
-![Home Screen] (assets/screenshots/iPhone_home.png)
-![Post Modal] (assets/screenshots/iPhone_post.png)
-![Actions Modal] (assets/screenshots/iPhone_actions.png)
+![Home Screen](assets/screenshots/iPhone_home.png)
+![Post Modal](assets/screenshots/iPhone_post.png)
+![Actions Modal](assets/screenshots/iPhone_actions.png)
 
 **Android Pixel:**
 ![Home Screen](assets/screenshots/android_home.png)
