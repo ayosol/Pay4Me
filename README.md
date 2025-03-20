@@ -9,6 +9,7 @@ This Flutter application is a social media-like platform that allows users to vi
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Testing](#testing)
+- [Screenshots](#screenshots)
 
 ## Setup Instructions
 
@@ -85,20 +86,20 @@ flutter test# pay4metask
 ## Screenshots
 
 **iPhone 16 Pro:**
-![Home Screen](assets/screenshots/iPhone_home.png) {width=400px}
-![Post Modal](assets/screenshots/iPhone_post.png) {width=400px}
-![Actions Modal](assets/screenshots/iPhone_actions.png) {width=400px}
+<img src="assets/screenshots/iPhone_home.png" alt="Home Screen" width="400"/>
+<img src="assets/screenshots/iPhone_post.png" alt="Post Modal" width="400"/>
+<img src="assets/screenshots/iPhone_actions.png" alt="Actions Modal" width="400"/>
+
 
 **Android Pixel:**
-![Home Screen](assets/screenshots/android_home.png) {width=400px}
-![Post Modal](assets/screenshots/android_post.png) {width=400px}
-![Actions Modal](assets/screenshots/android_actions.png) {width=400px}
+<img src="assets/screenshots/android_home.png" alt="Home Screen" width="400"/>
+<img src="assets/screenshots/android_post.png" alt="Post Modal" width="400"/>
+<img src="assets/screenshots/android_actions.png" alt="Actions Modal" width="400"/>
 
 **iPad Pro:**
-![Home Screen](assets/screenshots/ipad_home.png) {width=400px}
-![Post Modal](assets/screenshots/ipad_post.png) {width=400px}
-![Actions Modal](assets/screenshots/ipad_actions.png) {width=400px}
-```
+<img src="assets/screenshots/ipad_home.png" alt="Home Screen" width="400"/>
+<img src="assets/screenshots/ipad_post.png" alt="Post Modal" width="400"/>
+<img src="assets/screenshots/ipad_actions.png" alt="Actions Modal" width="400"/>
 
 
 
