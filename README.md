@@ -85,19 +85,20 @@ flutter test# pay4metask
 ## Screenshots
 
 **iPhone 16 Pro:**
-![Home Screen](assets/screenshots/iPhone_home.png)
-![Post Modal](assets/screenshots/iPhone_post.png)
-![Actions Modal](assets/screenshots/iPhone_actions.png)
+![Home Screen](assets/screenshots/iPhone_home.png) {width=400px}
+![Post Modal](assets/screenshots/iPhone_post.png) {width=400px}
+![Actions Modal](assets/screenshots/iPhone_actions.png) {width=400px}
 
 **Android Pixel:**
-![Home Screen](assets/screenshots/android_home.png)
-![Post Modal](assets/screenshots/android_post.png)
-![Actions Modal](assets/screenshots/android_actions.png)
+![Home Screen](assets/screenshots/android_home.png) {width=400px}
+![Post Modal](assets/screenshots/android_post.png) {width=400px}
+![Actions Modal](assets/screenshots/android_actions.png) {width=400px}
 
 **iPad Pro:**
-![Home Screen](assets/screenshots/ipad_home.png)
-![Post Modal](assets/screenshots/ipad_post.png)
-![Actions Modal](assets/screenshots/ipad_actions.png)
+![Home Screen](assets/screenshots/ipad_home.png) {width=400px}
+![Post Modal](assets/screenshots/ipad_post.png) {width=400px}
+![Actions Modal](assets/screenshots/ipad_actions.png) {width=400px}
+```
 
 
 
