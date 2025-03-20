@@ -97,9 +97,9 @@ flutter test# pay4metask
 <img src="assets/screenshots/android_actions.png" alt="Actions Modal" width="200"/>
 
 **iPad Pro:**
-<img src="assets/screenshots/ipad_home.png" alt="Home Screen" width="300"/>
-<img src="assets/screenshots/ipad_post.png" alt="Post Modal" width="300"/>
-<img src="assets/screenshots/ipad_actions.png" alt="Actions Modal" width="300"/>
+<img src="assets/screenshots/ipad_home.png" alt="Home Screen" width="200"/>
+<img src="assets/screenshots/ipad_post.png" alt="Post Modal" width="200"/>
+<img src="assets/screenshots/ipad_actions.png" alt="Actions Modal" width="200"/>
 
 
 
