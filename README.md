@@ -86,20 +86,20 @@ flutter test# pay4metask
 ## Screenshots
 
 **iPhone 16 Pro:**
-<img src="assets/screenshots/iPhone_home.png" alt="Home Screen" width="400"/>
-<img src="assets/screenshots/iPhone_post.png" alt="Post Modal" width="400"/>
-<img src="assets/screenshots/iPhone_actions.png" alt="Actions Modal" width="400"/>
+<img src="assets/screenshots/iPhone_home.png" alt="Home Screen" width="200"/>
+<img src="assets/screenshots/iPhone_post.png" alt="Post Modal" width="200"/>
+<img src="assets/screenshots/iPhone_actions.png" alt="Actions Modal" width="200"/>
 
 
 **Android Pixel:**
-<img src="assets/screenshots/android_home.png" alt="Home Screen" width="400"/>
-<img src="assets/screenshots/android_post.png" alt="Post Modal" width="400"/>
-<img src="assets/screenshots/android_actions.png" alt="Actions Modal" width="400"/>
+<img src="assets/screenshots/android_home.png" alt="Home Screen" width="200"/>
+<img src="assets/screenshots/android_post.png" alt="Post Modal" width="200"/>
+<img src="assets/screenshots/android_actions.png" alt="Actions Modal" width="200"/>
 
 **iPad Pro:**
-<img src="assets/screenshots/ipad_home.png" alt="Home Screen" width="400"/>
-<img src="assets/screenshots/ipad_post.png" alt="Post Modal" width="400"/>
-<img src="assets/screenshots/ipad_actions.png" alt="Actions Modal" width="400"/>
+<img src="assets/screenshots/ipad_home.png" alt="Home Screen" width="300"/>
+<img src="assets/screenshots/ipad_post.png" alt="Post Modal" width="300"/>
+<img src="assets/screenshots/ipad_actions.png" alt="Actions Modal" width="300"/>
 
 
 
