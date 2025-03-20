@@ -31,8 +31,6 @@ This Flutter application is a social media-like platform that allows users to vi
     flutter run
     ```
 
-    [Add any specific instructions for different platforms or configurations.]
-
 ## Architecture Decisions
 
 * **Architecture:**
